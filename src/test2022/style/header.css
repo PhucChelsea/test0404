@@ -1,0 +1,30 @@
+.layout{
+	margin: 20px 160px;
+}
+.container{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
+.header_transaction{
+	display: flex;
+	justify-content: space-between;
+	color: aliceblue;
+}
+.header_transaction_item{
+	display: flex;
+	align-items: center;
+}
+.total_transaction{
+	margin: 0 20px;
+	color: #F0D042;
+}
+.avg_block_time{
+	margin: 0 20px;
+	color: #31B4D9;
+}
+.ETH_transaction{
+	margin: 0 20px;
+	color: #1F8B24;
+}
